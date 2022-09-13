@@ -1,0 +1,5 @@
+﻿  L2.c
+C:\Users\ifunt\source\repos\L2\L2\L2.c(10,15): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\ifunt\source\repos\L2\L2\L2.c(10,15): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\ifunt\source\repos\L2\L2\L2.c(29,9): warning C4477: "printf": в строке форматирования "%8d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+  L2.vcxproj -> C:\Users\ifunt\source\repos\L2\x64\Debug\L2.exe
