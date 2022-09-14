@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\TEMP\source\repos\l3\l3\Source.c(22,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\TEMP\source\repos\l3\l3\Source.c(23,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\TEMP\source\repos\l3\l3\Source.c(40,1): warning C4305: инициализация: усечение из "double" в "float"
+  l3.vcxproj -> C:\Users\TEMP\source\repos\l3\x64\Debug\l3.exe
